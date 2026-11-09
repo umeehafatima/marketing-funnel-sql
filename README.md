@@ -1,5 +1,5 @@
 # marketing-funnel-sql
-#Built by Umeeha Fatima
+Built by Umeeha Fatima
 # Where is our marketing money actually working? A funnel analysis in SQL
 
 I built a small marketing database and used SQL to answer one question a small marketing team
